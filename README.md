@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/patricksferraz/patricksferraz/master/img/ci.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computer">
+<img src="https://raw.githubusercontent.com/s4mkiel/s4mkiel/main/img/ci.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computer">
 
 <p align="left">
   :vulcan_salute: Hi, I'm Roberto Filho, <strong>back-end trainee developer</strong> in Golang. <br>
