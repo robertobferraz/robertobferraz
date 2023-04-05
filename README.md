@@ -58,5 +58,6 @@
 </p>
 
 <h5 align="center">@s4mkiel</h5>
-
+<!--
 ![Snake animation](https://github.com/s4mkiel/s4mkiel/blob/output/github-contribution-grid-snake.svg)
+-->
