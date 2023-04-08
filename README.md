@@ -47,7 +47,7 @@
       src="https://github-readme-stats.vercel.app/api?username=s4mkiel&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
     />
   </a>
-</p>
+  
   <a href="https://github.com/s4mkiel">
     <img
       align="center"
