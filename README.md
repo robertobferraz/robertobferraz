@@ -30,7 +30,7 @@
       src="https://img.shields.io/badge/Twitter-1A1B27?style=for-the-badge&logo=twitter&logoColor=38BCAD"
     />
   </a>
-  <a href="https://www.linkedin.com/in/roberto-filho-b458a0227/">
+  <a href="www.linkedin.com/in/s4mkiel">
     <img
       src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=38BCAD"
     />
