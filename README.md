@@ -11,6 +11,12 @@
   />
 </p>
 <p align="left">
+  > :coffee: <strong>Main learning:</strong><br>
+  <img
+    src="https://img.shields.io/badge/go-1C1C1C?style=flat-square&logo=go&logoColor=00FFFF"
+  />
+</p>
+<p align="left">
   > :beers: <strong>Contact me at:</strong> ⤵️
 </p>
 
