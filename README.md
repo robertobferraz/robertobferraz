@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/s4mkiel/s4mkiel/main/img/ci.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computer">
 
 <p align="left">
-  :vulcan_salute: Hi, I'm Roberto Filho, <strong>Software Engine developer</strong> in Golang. <br>
-  Student in Software Engineering. Currently acting in back-end project develop
+  :vulcan_salute: Hi, I'm Roberto Filho, <strong>Software Engine developer</strong>. <br>
+  Currently acting in back-end project develop
 </p>
 <p align="left">
   > :coffee: <strong>Main languages:</strong><br>
