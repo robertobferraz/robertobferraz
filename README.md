@@ -1,48 +1,78 @@
 <img src="https://raw.githubusercontent.com/robertobferraz/robertobferraz/main/img/ci.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computer">
 
+# 👋 Hi, I'm Roberto Filho  
+
+💻 **Software Engineer** specializing in **Backend Development**, with experience in building **scalable architectures**, **real-time systems**, and **microservices** using **Golang** and modern engineering practices.  
+
+Currently contributing to high-impact projects at **Fair Game** and previously at **Coding4U**, where I designed and optimized backend infrastructures to handle **performance, scalability, and resilience challenges**.  
+
+---
+
+## 🚀 About Me
+- 🔹 Strong focus on **Hexagonal Architecture (Ports & Adapters)**, **Microservices** and **Distributed Systems**.  
+- 🔹 Skilled in **Pub/Sub, Redis, PostgreSQL, MySQL, Docker, WebSocket, WebRTC**.  
+- 🔹 Experienced in **APIs RESTful** with performance, security and scalability in mind.  
+- 🔹 Proficient in **modularization and dependency injection** with **UberFx**.  
+- 🔹 Hands-on with **CI/CD, logging, monitoring** and **cloud platforms (GCP)**.  
+- 🔹 Passionate about solving **complex problems** with clean, maintainable, and performant code.  
+
+---
+
+## 🛠 Tech Stack
+
+![Go](https://img.shields.io/badge/Go-00ADD4?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=flat-square&logo=socket.io&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## 📌 Key Projects
+
+- **Fair Game** 🕹  
+  Designed and implemented backend microservices with **Hexagonal Architecture**, integrating real-time communication using **WebSocket** and **WebRTC**, ensuring high scalability and low-latency performance.  
+
+- **Coding4U** ⚽  
+  Built a backend system for **football betting analysis**, handling **real-time data ingestion and processing**, enabling insights and predictive models for end-users.  
+
+---
+
+## 📚 Learning & Growth  
+Currently expanding my knowledge in:  
+- **Frontend integration** with JavaScript/React.  
+- **Cloud Infrastructure** (GCP focus).  
+- **Container orchestration** with Docker & Kubernetes.  
+
+---
+
+## 📫 Connect with Me  
+
 <p align="left">
-  :vulcan_salute: Hi, I'm Roberto Filho, <strong>Software Engineer</strong>. <br>
-  Specializing in backend development, I’ve built scalable architectures at <strong>Coding4U</strong> and <strong>Fair Game</strong>.
-</p>
-<p align="left">
-  > :coffee: <strong>Main Languages:</strong><br>
-  <img src="https://img.shields.io/badge/go-1C1C1C?style=flat-square&logo=go&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/javascript-1C1C1C?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-</p>
-<p align="left">
-  > :coffee: <strong>Learning:</strong><br>
-  Expanding skills in JavaScript for frontend integration, Docker for containerization, and GCP for cloud infrastructure.<br>
-  <p align="left"> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
-</p>
-<p align="left">
-  > :rocket: <strong>Key Projects:</strong><br>
-  - <strong>Coding4U</strong>: Designed and built the backend architecture for a football betting analysis system, enabling real-time data processing and insights.<br>
-  - <strong>Fair Game</strong>: Developed the backend for a community platform, creating a central hub for gamer interactions and engagement.<br>
-</p>
-<p align="left">
-  > :beers: <strong>Contact me at:</strong> ⤵️
-</p>
-<p align="left">
-  <a href="https://github.com/robertobferraz">
-    <img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=38BCAD" />
-  </a>
-  <a href="https://www.instagram.com/roberto.filho46/">
-    <img src="https://img.shields.io/badge/Instagram-1A1B27?style=for-the-badge&logo=instagram&logoColor=38BCAD" />
-  </a>
   <a href="https://linkedin.com/in/robertobff">
     <img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=38BCAD" />
   </a>
   <a href="mailto:contatorobertobff@gmail.com">
     <img src="https://img.shields.io/badge/Email-1A1B27?style=for-the-badge&logo=gmail&logoColor=38BCAD" />
   </a>
-</p>
-<p align="left">
-  <a href="https://github.com/robertobferraz">
-    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertobferraz&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/robertobferraz">
-    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=robertobferraz&show_icons=true&theme=tokyonight&count_private=true" />
+  <a href="https://www.instagram.com/roberto.filho46/">
+    <img src="https://img.shields.io/badge/Instagram-1A1B27?style=for-the-badge&logo=instagram&logoColor=38BCAD" />
   </a>
 </p>
 
-<h5 align="center">@robertobferraz</h5>
+---
+
+<p align="center">
+  <a href="https://github.com/robertobferraz">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=robertobferraz&show_icons=true&theme=tokyonight&count_private=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertobferraz&layout=compact&theme=tokyonight&langs_count=6"/>
+  </a>
+</p>
+
+<h5 align="center">👨‍💻 @robertobferraz</h5>
